@@ -7,7 +7,6 @@ This project includes two FPGA-based implementations:
 1. **LCD Contrast Control with Buttons** – Adjust the LCD contrast using two tactile buttons (Basys3, Xilinx).
 2. **Real-Time Temperature Visualization** – Display temperature data in real time using WS2812 RGB LEDs (Altera DE2).
 
----
 
 ## 📘 Project Descriptions
 
