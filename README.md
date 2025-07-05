@@ -34,11 +34,3 @@ This project includes two FPGA-based implementations:
 **📸 Screenshot:**  
 ![FPGA_sys](https://i.postimg.cc/SRmyQmcF/8f7feb397774c12a9865.jpg)
 
----
-
-## 🛠️ Key Features
-
-- Full Verilog/VHDL hardware descriptions  
-- Real hardware testing on both Basys3 and Altera DE2  
-- Modular, reusable, and well-documented code  
-- Clear mapping of hardware interfaces and peripherals  
